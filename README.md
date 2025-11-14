@@ -95,4 +95,4 @@ Feel free to modify and improve it.
 
 ## Author
 
-Rúben Barbosa --- *RFID Locker System Developer*
+Rúben Barbosa --- *Software Engineer Student*
